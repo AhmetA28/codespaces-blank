@@ -1,0 +1,8 @@
+# My Pseudocode for Online Count
+
+1. Define a function called online_count that takes one parameter (a dictionary).
+2. Create a variable called count and set it equal to 0.
+3. Loop through each value in the dictionary.
+4. If the value is equal to "online", add 1 to count.
+5. After the loop ends, return count.
+6. Test the function with a sample dictionary.
